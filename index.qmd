@@ -1,0 +1,16 @@
+---
+title: "EPM SQUARE ANALYTICS"
+image: images/logoM.jpg
+about: 
+  template: jolla
+  links: 
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/eric-odongo-84177ba2/"
+      
+    - text: GitHub
+      icon: github
+      url: "https://github.com/rikoprogrammer"
+---
+
+This is the home page for EPM SQUARE ANALYTICS.
