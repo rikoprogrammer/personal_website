@@ -3,7 +3,7 @@ project:
 
 website:
   title: "EPM SQUARE ANALYTICS"
-  #site-url: 
+  site-url: https://epm-square-analytics.netlify.app/
   description: "We provide programming services to both data science and clinical trials analysis"
   favicon: images/favicon.ico
   navbar:
