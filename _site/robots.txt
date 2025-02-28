@@ -1,1 +1,1 @@
-Sitemap: https://warm-pudding-e95ff1.netlify.app/sitemap.xml
+Sitemap: https://epm-square-analytics.netlify.app/sitemap.xml

@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+Welcome the EPM website. Here you will find useful guidelines into what we offer as a company. We are both a training and a consultancy company. We train people on how to use statistical software like R, Python, SAS, STATA etc and also how to carry out actual data analysis using these tools.
 
-```{r}
-1 + 1
-```
+For consultancy, we offer consulting services for market research, data analysis, proposal writing, business plans, statistical design and analysis plans, among others.

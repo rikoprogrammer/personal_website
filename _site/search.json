@@ -11,13 +11,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this"
   },
   {
     "objectID": "consult_services/consulting_services1.html",
     "href": "consult_services/consulting_services1.html",
     "title": "Consulting Services",
     "section": "",
-    "text": "We offer consulting services in various industries that deals with data."
+    "text": "We offer consulting services in market research, survey design, advanced data analysis, proposal writing, business plans, design of experiments, statistical analysis plans among others."
+  },
+  {
+    "objectID": "training_services/training_services.html",
+    "href": "training_services/training_services.html",
+    "title": "Training Services",
+    "section": "",
+    "text": "We offer training in the use of statistical packages like R, Python, SPSS, SAS, STATA among others. Our approach is hands-on always making sure that learners can actually use the tools effectively.\nWe also train people how to actually conduct data analysis using the given tools. We have expertise in clinical trial data analysis techniques like survival analysis, meta-analysis, etc, and we also excel in training common analysis methods in research like ANOVA, Regression, Mediation analysis, Multi-level modeling among others."
   }
 ]
