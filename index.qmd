@@ -11,6 +11,10 @@ about:
     - text: GitHub
       icon: github
       url: "https://github.com/rikoprogrammer"
+      
+    - text: Upwork
+      icon: upwork
+      url: "https://www.upwork.com/freelancers/~01c25f0aa09f631588"
 ---
 
 This is the home page for EPM SQUARE ANALYTICS.
