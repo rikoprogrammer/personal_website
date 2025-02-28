@@ -4,7 +4,7 @@ project:
 website:
   title: "EPM SQUARE ANALYTICS"
   site-url: https://epm-square-analytics.netlify.app/
-  description: "We provide programming services to both data science and clinical trials analysis"
+  description: "We provide training and consulting services to clients in various industries."
   favicon: images/favicon.ico
   navbar:
     search: true
@@ -16,6 +16,10 @@ website:
       - text: "Consulting Services"
         icon: kanban
         href: consult_services/consulting_services1.qmd
+        
+      - text: "Training Services"
+        icon: kanban
+        href: training_services/training_services.qmd
 
 format:
   html:

@@ -3,4 +3,4 @@ pagetitle: "Consulting Services | EPM SQUARE ANALYTICS"
 title: "Consulting Services"
 ---
 
-We offer consulting services in various industries that deals with data.
+We offer consulting services in market research, survey design, advanced data analysis, proposal writing, business plans, design of experiments, statistical analysis plans among others.
