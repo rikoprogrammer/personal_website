@@ -23,7 +23,15 @@ Here is the link to the live app : <https://4lt3sb-eric-odongo.shinyapps.io/shin
 
 ## Sample 02
 
+The client wanted a detailed analysis of their data using Structural Equation Modeling technique. The analysis was carried out using R software package.
+
+Extensive analysis was conducted, including descriptive analysis, visualizations, and statistical modeling. Assumptions of the model were tested thoroughly.
+
+A link to the pdf report is here : <https://github.com/rikoprogrammer/SEM_analysis/blob/main/SEM_analysis.pdf>
+
 ## Sample 03
+
+A corporate client in Hargeisa, Somaliland, sought a comprehensive business plan for their new medical facility, **Holistic Health Center** ([www.holistichealth.com](http://www.holistichealth.com)). We developed a detailed business plan and delivered it on time to support their business operations and ensure a smooth setup.
 
 ## Sample 04
 
