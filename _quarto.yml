@@ -20,6 +20,11 @@ website:
       - text: "Training Services"
         icon: kanban
         href: training_services/training_services.qmd
+        
+      - text: "Company Profile"
+        icon: kanban
+        href: company_profile/company_profile.qmd
+        
 
 format:
   html:
