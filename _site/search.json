@@ -95,7 +95,7 @@
     "href": "sample_works/sample_works.html#sample-01",
     "title": "Sample Works",
     "section": "Sample 01",
-    "text": "Sample 01"
+    "text": "Sample 01\nIn this project, the client sought a way to explore various statistical models to gain a deeper understanding of their data. Initially, they were estimating multiple models using Excel. We proposed an interactive solution—a Shiny app in R—that allows for more efficient model exploration.\nThe app offers a wide range of modeling options, including time series models, OLS regression, machine learning models, simplex regression, constrained regression, instrumental variable regression, Kalman filter models, and more.\nThis work is still in progress - the client still wants more features to be added and we are working on that.\nHere is the link to the live app : https://4lt3sb-eric-odongo.shinyapps.io/shinyApp/"
   },
   {
     "objectID": "sample_works/sample_works.html#sample-02",
@@ -130,6 +130,6 @@
     "href": "sample_works/sample_works.html#companies-that-we-have-worked-with",
     "title": "Sample Works",
     "section": "Companies that we have worked with",
-    "text": "Companies that we have worked with"
+    "text": "Companies that we have worked with\nWe have worked with research based companies like DTE Consultancy, Betting solutions Kenya, ABC Realtors among others."
   }
 ]
