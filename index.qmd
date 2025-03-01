@@ -1,6 +1,9 @@
 ---
 title: "EPM SQUARE ANALYTICS"
 image: images/logoM.jpg
+format: 
+  html: 
+    css: styles.css
 about: 
   template: jolla
   links: 
