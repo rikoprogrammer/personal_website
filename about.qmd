@@ -1,5 +1,5 @@
 ---
-pagetitle: "Consulting Services | EPM SQUARE ANALYTICS"
+pagetitle: "About | EPM SQUARE ANALYTICS"
 title: "About"
 ---
 
