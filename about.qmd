@@ -3,10 +3,12 @@ pagetitle: "About | EPM SQUARE ANALYTICS"
 title: "About"
 ---
 
-![](images/about.jpg){width="506"}
+![](images/intropage.jpg){width="800" height="576"}
 
-Welcome to the EPM website. Here you will find useful guidelines into what we offer as a company. We are both a training and a consultancy company. We train people on how to use statistical software like R, Python, SAS, STATA etc and also how to carry out actual data analysis using these tools.
+Welcome to the EPM website! Here, you’ll find valuable insights into our services as both a training and consultancy company.
 
-For consultancy, we offer consulting services in market research, data analysis, proposal writing, business plans, statistical design and analysis plans, among others.
+We provide training on the use of statistical software such as R, Python, SAS, and STATA, as well as practical guidance on conducting data analysis with these tools.
+
+Our consultancy services include market research, data analysis, proposal writing, business plan development, statistical design, and analysis planning, among others.
 
 You can book an initial call at <https://calendly.com/ericodongo35/30min>

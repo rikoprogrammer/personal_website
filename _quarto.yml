@@ -25,6 +25,10 @@ website:
         icon: kanban
         href: company_profile/company_profile.qmd
         
+      - text: "Sample Works"
+        icon: kanban
+        href: sample_works/sample_works.qmd
+        
 
 format:
   html:
