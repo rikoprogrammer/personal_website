@@ -9,7 +9,17 @@ This section contains sample projects that we have delivered to clients in the p
 
 ## Companies that we have worked with
 
+We have worked with research based companies like DTE Consultancy, Betting solutions Kenya, ABC Realtors among others.
+
 ## Sample 01
+
+In this project, the client sought a way to explore various statistical models to gain a deeper understanding of their data. Initially, they were estimating multiple models using Excel. We proposed an interactive solution—a Shiny app in R—that allows for more efficient model exploration.
+
+The app offers a wide range of modeling options, including time series models, OLS regression, machine learning models, simplex regression, constrained regression, instrumental variable regression, Kalman filter models, and more.
+
+This work is still in progress - the client still wants more features to be added and we are working on that.
+
+Here is the link to the live app : <https://4lt3sb-eric-odongo.shinyapps.io/shinyApp/>
 
 ## Sample 02
 
