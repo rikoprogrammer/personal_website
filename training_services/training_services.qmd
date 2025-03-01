@@ -3,6 +3,8 @@ pagetitle: "Consulting Services | EPM SQUARE ANALYTICS"
 title: "Training Services"
 ---
 
+![](/images/about.jpg){fig-align="center" width="800" height="576"}
+
 We offer training in the use of statistical packages like R, Python, SPSS, SAS, STATA among others. Our approach is hands-on always making sure that learners can actually use the tools effectively.
 
 We also train people how to actually conduct data analysis using the given tools. We have expertise in clinical trial data analysis techniques like survival analysis, meta-analysis, etc, and we also excel in training common analysis methods in research like ANOVA, Regression, Mediation analysis, Multi-level modeling among others.

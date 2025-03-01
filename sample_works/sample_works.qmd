@@ -1,0 +1,20 @@
+---
+pagetitle: "Sample Works | EPM SQUARE ANALYTICS"
+title: "Sample Works"
+---
+
+## Sample works
+
+This section contains sample projects that we have delivered to clients in the past. This section is meant to give you an overview into our philosophy and approach to projects. These projects range from data analysis reports, Rshiny applications, Dashboards etc.
+
+## Companies that we have worked with
+
+## Sample 01
+
+## Sample 02
+
+## Sample 03
+
+## Sample 04
+
+## Sample 05

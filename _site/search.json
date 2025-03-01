@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Welcome to the EPM website. Here you will find useful guidelines into what we offer as a company. We are both a training and a consultancy company. We train people on how to use statistical software like R, Python, SAS, STATA etc and also how to carry out actual data analysis using these tools.\nFor consultancy, we offer consulting services in market research, data analysis, proposal writing, business plans, statistical design and analysis plans, among others.\nYou can book an initial call at https://calendly.com/ericodongo35/30min"
+    "text": "Welcome to the EPM website! Here, you’ll find valuable insights into our services as both a training and consultancy company.\nWe provide training on the use of statistical software such as R, Python, SAS, and STATA, as well as practical guidance on conducting data analysis with these tools.\nOur consultancy services include market research, data analysis, proposal writing, business plan development, statistical design, and analysis planning, among others.\nYou can book an initial call at https://calendly.com/ericodongo35/30min"
   },
   {
     "objectID": "consult_services/consulting_services1.html",
@@ -75,5 +75,61 @@
     "title": "Company Profile",
     "section": "",
     "text": "The company was founded in the year 2023 with an aim of offering training and consultancy services in broad areas of science and research. The focus is more on equipping individuals with necessary skills to help them conduct meaningful analysis of their own data."
+  },
+  {
+    "objectID": "sample_works/sample_works.html",
+    "href": "sample_works/sample_works.html",
+    "title": "Sample Works",
+    "section": "",
+    "text": "This section contains sample projects that we have delivered to clients in the past. This section is meant to give you an overview into our philosophy and approach to projects. These projects range from data analysis reports, Rshiny applications, Dashboards etc."
+  },
+  {
+    "objectID": "sample_works/sample_works.html#sample-works",
+    "href": "sample_works/sample_works.html#sample-works",
+    "title": "Sample Works",
+    "section": "",
+    "text": "This section contains sample projects that we have delivered to clients in the past. This section is meant to give you an overview into our philosophy and approach to projects. These projects range from data analysis reports, Rshiny applications, Dashboards etc."
+  },
+  {
+    "objectID": "sample_works/sample_works.html#sample-01",
+    "href": "sample_works/sample_works.html#sample-01",
+    "title": "Sample Works",
+    "section": "Sample 01",
+    "text": "Sample 01"
+  },
+  {
+    "objectID": "sample_works/sample_works.html#sample-02",
+    "href": "sample_works/sample_works.html#sample-02",
+    "title": "Sample Works",
+    "section": "Sample 02",
+    "text": "Sample 02"
+  },
+  {
+    "objectID": "sample_works/sample_works.html#sample-03",
+    "href": "sample_works/sample_works.html#sample-03",
+    "title": "Sample Works",
+    "section": "Sample 03",
+    "text": "Sample 03"
+  },
+  {
+    "objectID": "sample_works/sample_works.html#sample-04",
+    "href": "sample_works/sample_works.html#sample-04",
+    "title": "Sample Works",
+    "section": "Sample 04",
+    "text": "Sample 04"
+  },
+  {
+    "objectID": "sample_works/sample_works.html#sample-05",
+    "href": "sample_works/sample_works.html#sample-05",
+    "title": "Sample Works",
+    "section": "Sample 05",
+    "text": "Sample 05"
+  },
+  {
+    "objectID": "sample_works/sample_works.html#companies-that-we-have-worked-with",
+    "href": "sample_works/sample_works.html#companies-that-we-have-worked-with",
+    "title": "Sample Works",
+    "section": "Companies that we have worked with",
+    "text": "Companies that we have worked with"
   }
 ]
