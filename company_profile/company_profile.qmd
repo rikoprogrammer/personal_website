@@ -5,14 +5,58 @@ title: "Company Profile"
 
 ## Introduction
 
-The company was founded in the year 2023 with an aim of offering training and consultancy services in broad areas of science and research. The focus is more on equipping individuals with necessary skills to help them conduct meaningful analysis of their own data.
+Founded in 2023, our company is dedicated to providing top-tier training and consultancy services in various fields of science and research. We believe that data-driven decision-making is at the core of innovation and progress. Our primary goal is to equip individuals and organizations with the necessary skills to analyze, interpret, and derive meaningful insights from their data. Whether you are a researcher, a student, or a professional looking to enhance your analytical capabilities, we provide tailored solutions to meet your needs.
 
 ## Our Mission
 
+To empower individuals and organizations to unlock the full potential of their data through comprehensive training and insightful consultancy services. By offering high-quality, practical, and industry-relevant training, we help our clients gain confidence in handling data, making informed decisions, and solving real-world problems.
+
 ## Our Vision
+
+To be a globally recognized leader in training and consultancy services, setting the benchmark for excellence in data analysis, research methodologies, and scientific inquiry. We strive to create an ecosystem where knowledge, innovation, and expertise come together to drive impactful change across industries.
 
 ## Our Culture
 
+At our company, we foster a culture of inclusivity, collaboration, and continuous learning. We believe that every idea, no matter how small, has the potential to drive meaningful progress. Our team values open communication, creativity, and problem-solving, ensuring that all voices are heard and respected.
+
+We are committed to professional integrity and customer satisfaction, always going the extra mile to deliver services that exceed expectations. By supporting and uplifting each other, we create a strong foundation that enables us to serve our clients effectively
+
 ## Our divisions
 
+We operate through two primary divisions, each designed to cater to specific needs:
+
+#### **1. Training Division**
+
+Our Training Division focuses on equipping individuals with hands-on experience in data analysis, research methodologies, statistical tools, and scientific software. We offer:
+
+-   In-depth workshops and online courses covering statistical analysis, machine learning, and data visualization.
+
+-   Practical training in tools such as Python, R, SPSS, SAS, and other relevant software tools.
+
+-   Customized corporate training for businesses looking to upskill their teams.
+
+-   One-on-one mentorship for students and professionals seeking personalized guidance.
+
+#### **2. Consultancy Division**
+
+Our Consultancy Division provides expert advice and solutions tailored to the specific needs of businesses, researchers, and institutions. Our services include:
+
+-   Data analysis and interpretation for research projects and business analytics.
+
+-   Statistical modeling, forecasting, and predictive analysis.
+
+-   Assistance with research design, survey methodologies, and academic writing.
+
+-   Custom solutions for organizations seeking to optimize their data-driven strategies.
+
+For more details on each division, please visit their respective pages or contact us to discuss how we can support your data and research needs.
+
 ## Reach out to US
+
+You can contact as at the below contacts:
+
+email: empsquareanalytics.com
+
+phone: +254715609921/+254728676769
+
+linkedin: <https://www.linkedin.com/company/101062269/>
